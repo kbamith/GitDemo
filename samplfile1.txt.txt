@@ -1,3 +1,5 @@
 Hello I am from sample file
 I am from banglore
 I am in podbic
+
+I am practicing the git stash
