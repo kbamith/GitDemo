@@ -3,3 +3,4 @@ I am from banglore
 I am in podbic
 
 I am practicing the git stash
+I am trying to senf it to remote reposistrty
